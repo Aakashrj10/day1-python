@@ -1,3 +1,5 @@
+# A simple number guessing game
+
 import random
 
 number= random.randint(1,100)
